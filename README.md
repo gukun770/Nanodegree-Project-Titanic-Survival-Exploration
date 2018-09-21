@@ -1,6 +1,6 @@
 # Machine Learning Engineer Nanodegree
 ## Introduction and Foundations
-## Project: Titanic Survival Exploration
+## Project: [Titanic Survival Exploration](http://nbviewer.jupyter.org/github/gukun770/Nanodegree-Project-Titanic-Survival-Exploration/blob/master/titanic_survival_exploration.ipynb)
 
 ### Install
 
